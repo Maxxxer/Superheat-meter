@@ -1,5 +1,5 @@
 ﻿#pragma once
-
+#include "Arduino.h"
 // число цыферок у дисплейчика, в моём 4, бывают на 6 - 8, но у мня нет,я не тестил
 //
 const uint8_t NUM_DIGITS = 4;     
